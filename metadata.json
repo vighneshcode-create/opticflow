@@ -1,0 +1,6 @@
+{
+  "name": "OpticFlow",
+  "description": "Premium customer prescription ledger, 10-year order history archive, and dynamic PDF billing portal for optometry and eye care shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
